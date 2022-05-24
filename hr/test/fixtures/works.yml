@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  experience: MyString
+  title: MyString
+  level: MyString
+  resume: MyString
+  reference: MyString
+
+two:
+  experience: MyString
+  title: MyString
+  level: MyString
+  resume: MyString
+  reference: MyString
